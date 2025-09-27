@@ -1,0 +1,30 @@
+[submodule "CPP_Module00"]
+	path = CPP_Module00
+	url = git@github.com:melaniereis/CPP_Module00.git
+[submodule "CPP_Module01"]
+	path = CPP_Module01
+	url = git@github.com:melaniereis/CPP_Module01.git
+[submodule "CPP_Module02"]
+	path = CPP_Module02
+	url = git@github.com:melaniereis/CPP_Module02.git
+[submodule "CPP_Module03"]
+	path = CPP_Module03
+	url = git@github.com:melaniereis/CPP_Module03.git
+[submodule "CPP_Module04"]
+	path = CPP_Module04
+	url = git@github.com:melaniereis/CPP_Module04.git
+[submodule "CPP_Module05"]
+	path = CPP_Module05
+	url = git@github.com:melaniereis/CPP_Module05.git
+[submodule "CPP_Module06"]
+	path = CPP_Module06
+	url = git@github.com:melaniereis/CPP_Module06.git
+[submodule "CPP_Module07"]
+	path = CPP_Module07
+	url = git@github.com:melaniereis/CPP_Module07.git
+[submodule "CPP_Module08"]
+	path = CPP_Module08
+	url = git@github.com:melaniereis/CPP_Module08.git
+[submodule "CPP_Module09"]
+	path = CPP_Module09
+	url = git@github.com:melaniereis/CPP_Module09.git
